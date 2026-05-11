@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KiemTraWebSite_Lan2", ".", "{B122EFDA-6F54-43B3-B79A-92E9BBED833E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61969"
+		Debug.AspNetCompiler.PhysicalPath = "D:\KiemTraWebSite_Lan2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61969\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61969"
+		Release.AspNetCompiler.PhysicalPath = "D:\KiemTraWebSite_Lan2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61969\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61969"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B122EFDA-6F54-43B3-B79A-92E9BBED833E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B122EFDA-6F54-43B3-B79A-92E9BBED833E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1433A2AC-E914-4742-815F-176C15994334}
+	EndGlobalSection
+EndGlobal
